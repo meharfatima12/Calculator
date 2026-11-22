@@ -68,7 +68,7 @@ The program allows users to perform addition, subtraction, multiplication, and d
 
 
 
-Your Friend's Name
+Mehar Fatima
 
 
 
